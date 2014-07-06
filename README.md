@@ -1,7 +1,5 @@
 # The Prisoners and the Boxes, or "Names and Boxes"
 
------------------------
-
 This script will run trials of the "Names and Boxes" problem listed here on Peter Winkler's website in his article "Seven Puzzles You Think You Must Not Have Heard Correctly":  [https://www.math.dartmouth.edu/~pw/solutions.pdf](https://www.math.dartmouth.edu/~pw/solutions.pdf)
 
 There are some additional options that you can pass to the script, maybe one or two are interesting but most are not really helpful.  Use --help to get a full list of options available.
