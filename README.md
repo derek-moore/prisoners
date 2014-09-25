@@ -11,7 +11,7 @@ The Warden has offered a deal to 100 prisoners.  He has placed their names in 10
 
 The prisoners may not communicate after entering the room.  The only thing they may do is come up with a strategy beforehand.
 
-Some warden, huh?  There is a 50% chance that a prisoner will find his name in one of the fifty boxes that he opens.  And for 100 prisoners to do this in a row... it would be like flipping a coin 100 times and getting 100 heads.  The chances of that happening are 1/2^100, which unbelievably unlikely.
+Some warden, huh?  There is a 50% chance that a prisoner will find his name in one of the fifty boxes that he opens.  And for 100 prisoners to do this in a row... it would be like flipping a coin 100 times and getting 100 heads.  The chances of that happening are 1/2^100, which is unbelievably unlikely.
 
 The Warden has already decided he is going to place the names in the boxes randomly.  And he *will* allow the prisoners to come up with a strategy beforehand.  After all, he is pretty confident that he is going to execute 100 prisoners tonight, regardless of what happens!
 
